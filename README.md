@@ -1,6 +1,5 @@
 # 🐍 Python Game Development Masterclass
 
-This repository tracks my journey through the [FreeCodeCamp Python for Beginners](https://www.freecodecamp.org) course. The focus is on mastering core programming concepts and applying them to game development logic.
 
 ---
 
