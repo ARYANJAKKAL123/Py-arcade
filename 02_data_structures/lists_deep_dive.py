@@ -35,6 +35,8 @@ def copy_list():
       copy = items[:]
       print(f"The copy List: {copy}")
 
+#6 
+
 
 
 def main():
